@@ -16,19 +16,18 @@ output: index.html
 
 --
 
-### Slide link
+### 議程錄影
+
 <h1 style="font-size: 52px">
-https://denny.one/devfest2020/
+https://youtu.be/eseo0hcRaQI?t=18201
 </h1>
 
 --
 
-### Online Q & A
-
-<div align="center">
-  <img width="300px" src="img/slido.png" />
-</div>
-## https://sli.do/firebase
+### Slide link
+<h1 style="font-size: 52px">
+https://denny.one/devfest2020/
+</h1>
 
 --
 
